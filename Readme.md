@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# 🍕 FAST PIZZA CO.
-
 ## How to run the porject
 
 go to the project directory and provide these commands in order :
