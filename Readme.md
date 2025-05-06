@@ -1,7 +1,3 @@
-## project Demo :
-
-fastidious-jelly-0bf327.netlify.app/
-
 
 ## How to run the porject
 
