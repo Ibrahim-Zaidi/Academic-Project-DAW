@@ -1,6 +1,6 @@
 ## Project Goal
 
-The Pizza Delivery Application is designed to simplify and streamline the process of ordering and delivering pizzas.
+The Pizza Delivery Application is designed to simplify the process of ordering and delivering pizzas.
 Customers can browse a variety of pizzas, customize their orders, and track deliveries in real-time—all through a clean and responsive user interface.
 
 * this projects provide View pizza menu with categories and pricing .
